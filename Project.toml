@@ -1,0 +1,16 @@
+name = "LibreDWG_jll"
+uuid = "09e420bf-8417-5f06-a15e-b9d95313e2fb"
+version = "0.13.4+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.6"
+Libdl = "< 0.0.1, 1"
+Libiconv_jll = "1.17"
+Artifacts = "< 0.0.1, 1"

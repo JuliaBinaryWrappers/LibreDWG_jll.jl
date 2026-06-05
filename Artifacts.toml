@@ -1,0 +1,160 @@
+[[LibreDWG]]
+arch = "aarch64"
+git-tree-sha1 = "b362a6c5abcf62743a8c0d43c1adaf719f952da9"
+os = "macos"
+
+    [[LibreDWG.download]]
+    sha256 = "2a7cefb5ea2135e74d96bba580a4ffc1ec9dca6f54022b7ecc80d87e422452bc"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.aarch64-apple-darwin.tar.gz"
+[[LibreDWG]]
+arch = "aarch64"
+git-tree-sha1 = "4a7f132d5cc46c568808b3981c36f31e9d1129f6"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "9564f3befabc1baca44747ce79f8caadbca774412846fccfa77e1e74d48f902f"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.aarch64-linux-gnu.tar.gz"
+[[LibreDWG]]
+arch = "aarch64"
+git-tree-sha1 = "7b206edc2959fbab86a3208f9951d11cf09d38a2"
+libc = "musl"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "34e214d81394573f58f469fb3564c445dd594897a02f20a41425968dc8cb353e"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.aarch64-linux-musl.tar.gz"
+[[LibreDWG]]
+arch = "aarch64"
+git-tree-sha1 = "f87a64c06de2ae2bce506ae31a39f6e9457df09d"
+os = "freebsd"
+
+    [[LibreDWG.download]]
+    sha256 = "7c1f9361617ef5b19ddf52dc83fe56a410102c1f800308ac799ff0d7b025c27f"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.aarch64-unknown-freebsd.tar.gz"
+[[LibreDWG]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "930f56debb9b9b0763e61853588f3eb8f1cb6813"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "a8b68216417c58494dfea2bf72577bfd5c9ba0146772aa02d6a3f95a1f205828"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.armv6l-linux-gnueabihf.tar.gz"
+[[LibreDWG]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f43783e15f5f3ca770d2c4504dd13ebeab901459"
+libc = "musl"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "a6a820563de45bb1a837aa0017e5f3ecc45e77ecce845ac34ad85fb1a97245f7"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.armv6l-linux-musleabihf.tar.gz"
+[[LibreDWG]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0bf8906086a0ee6ee6557a1f062707d5b9e99328"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "1bdaad4e2e7901de18df228ab9bbaf0caf27a807738ba5653206a1abea0a39b0"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.armv7l-linux-gnueabihf.tar.gz"
+[[LibreDWG]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bb5387cdbed41dd580f80320bd85c3db95a5bdd9"
+libc = "musl"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "0b02d4b6752daa07f8fe341737002c2f2d27fea2a7d9442d259342950f1319d5"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.armv7l-linux-musleabihf.tar.gz"
+[[LibreDWG]]
+arch = "i686"
+git-tree-sha1 = "3969f07bb5234667a0f9214f4fb70f926e7e272e"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "707a230a2b1ec4322598c9cae4b2cb0ab5d86e31a6caa7468b761f040de1f80f"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.i686-linux-gnu.tar.gz"
+[[LibreDWG]]
+arch = "i686"
+git-tree-sha1 = "34296da2d552b10eb1f8ff32a284f26afafbcdcc"
+libc = "musl"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "2d0bad70a0b31c4475cef6c306cda56a38d1fff93205a5803afaee44bab03cc4"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.i686-linux-musl.tar.gz"
+[[LibreDWG]]
+arch = "i686"
+git-tree-sha1 = "e49f57922348af478afeedfebce48b05f6aa4135"
+os = "windows"
+
+    [[LibreDWG.download]]
+    sha256 = "fd5fcee5d5046406fc4d7b8b1b99116aa451434a87925f85d4cdf46040c1ce88"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.i686-w64-mingw32.tar.gz"
+[[LibreDWG]]
+arch = "powerpc64le"
+git-tree-sha1 = "11f13c941e632ff87b999e4e73b0d9ead826fcb2"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "72adb53b998c3cefe9940737aa6864d8e0abfd149fd073a07638723334849d12"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.powerpc64le-linux-gnu.tar.gz"
+[[LibreDWG]]
+arch = "riscv64"
+git-tree-sha1 = "62417be50930075302ce39ab35f0d2c2acb9900d"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "c2ebe9608f278b2ac51c2ec3cf75d63ecc1e245db9dbe1654b494f94214675ce"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.riscv64-linux-gnu.tar.gz"
+[[LibreDWG]]
+arch = "x86_64"
+git-tree-sha1 = "2425e8f55363e64fff7da9b46621f40bd3bd5381"
+os = "macos"
+
+    [[LibreDWG.download]]
+    sha256 = "16fe1c535ed87ed27b4c691e064da0dba60d0c46b4678feaf9fd3df0e75cc194"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.x86_64-apple-darwin.tar.gz"
+[[LibreDWG]]
+arch = "x86_64"
+git-tree-sha1 = "5dca53b19f97ac28fdfd073740efc5bc5aac05da"
+libc = "glibc"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "521216527b73f953c26c6202e972676ad14c8ad812fc15f9c4af31ae2681f0b4"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.x86_64-linux-gnu.tar.gz"
+[[LibreDWG]]
+arch = "x86_64"
+git-tree-sha1 = "a52da1532924a821a17531dfb8aafc9a0b8d4909"
+libc = "musl"
+os = "linux"
+
+    [[LibreDWG.download]]
+    sha256 = "5f46588572124d8a3224b0e30fe322dd82401e5040775d419612e1e29b66f121"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.x86_64-linux-musl.tar.gz"
+[[LibreDWG]]
+arch = "x86_64"
+git-tree-sha1 = "b5fb6f83253f14289c0c61ecc5a616e58f3a9e6a"
+os = "freebsd"
+
+    [[LibreDWG.download]]
+    sha256 = "ffb11a1ddbfbcdc78165abb9f554878718c7b18396b5faee033794fe57d3c74d"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.x86_64-unknown-freebsd.tar.gz"
+[[LibreDWG]]
+arch = "x86_64"
+git-tree-sha1 = "7611c3adb8d92b53f02f5e1229aef27494d1e377"
+os = "windows"
+
+    [[LibreDWG.download]]
+    sha256 = "5a3b78531d7aaa039963ae409f1323f47c5a75b3adb0373d482c188582783281"
+    url = "https://github.com/JuliaBinaryWrappers/LibreDWG_jll.jl/releases/download/LibreDWG-v0.13.4+0/LibreDWG.v0.13.4.x86_64-w64-mingw32.tar.gz"
